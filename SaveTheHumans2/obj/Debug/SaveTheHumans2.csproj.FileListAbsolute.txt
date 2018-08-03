@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\SaveTheHumans2\SaveTheHumans2\bin\Debug\SaveTheHumans2.exe.config
+C:\Users\USER\source\repos\SaveTheHumans2\SaveTheHumans2\bin\Debug\SaveTheHumans2.exe
+C:\Users\USER\source\repos\SaveTheHumans2\SaveTheHumans2\bin\Debug\SaveTheHumans2.pdb
+C:\Users\USER\source\repos\SaveTheHumans2\SaveTheHumans2\obj\Debug\SaveTheHumans2.csprojResolveAssemblyReference.cache
+C:\Users\USER\source\repos\SaveTheHumans2\SaveTheHumans2\obj\Debug\MainWindow.g.cs
+C:\Users\USER\source\repos\SaveTheHumans2\SaveTheHumans2\obj\Debug\App.g.cs
+C:\Users\USER\source\repos\SaveTheHumans2\SaveTheHumans2\obj\Debug\SaveTheHumans2_MarkupCompile.cache
+C:\Users\USER\source\repos\SaveTheHumans2\SaveTheHumans2\obj\Debug\SaveTheHumans2_MarkupCompile.lref
+C:\Users\USER\source\repos\SaveTheHumans2\SaveTheHumans2\obj\Debug\MainWindow.baml
+C:\Users\USER\source\repos\SaveTheHumans2\SaveTheHumans2\obj\Debug\SaveTheHumans2.g.resources
+C:\Users\USER\source\repos\SaveTheHumans2\SaveTheHumans2\obj\Debug\SaveTheHumans2.Properties.Resources.resources
+C:\Users\USER\source\repos\SaveTheHumans2\SaveTheHumans2\obj\Debug\SaveTheHumans2.csproj.GenerateResource.Cache
+C:\Users\USER\source\repos\SaveTheHumans2\SaveTheHumans2\obj\Debug\SaveTheHumans2.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\SaveTheHumans2\SaveTheHumans2\obj\Debug\SaveTheHumans2.exe
+C:\Users\USER\source\repos\SaveTheHumans2\SaveTheHumans2\obj\Debug\SaveTheHumans2.pdb
