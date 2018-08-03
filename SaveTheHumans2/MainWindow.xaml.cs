@@ -75,6 +75,8 @@ namespace SaveTheHumans2
             humanCaptured = false;
             progressBar.Value = 0;
             startButton.Visibility = Visibility.Collapsed;
+            playArea.Children.Remove(target);
+            playArea.Children.Remove(human);
             playArea.Children.Add(target);
             playArea.Children.Add(human);
             enemyTimer.Start();
