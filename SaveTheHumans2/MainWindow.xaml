@@ -9,7 +9,7 @@
     <Window.Resources>
         <ControlTemplate x:Key="enemyTemplate" TargetType="{x:Type ContentControl}">
             <Grid>
-                <Ellipse Fill="Gray" Height="100" Stroke="Black" Width="75"/>
+                <Ellipse Fill="Red" Height="100" Stroke="Black" Width="75"/>
                 <Ellipse Fill="Black" Width="25" Height="35" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="40,20,70,0" RenderTransformOrigin="0.5,0.5">
                     <Ellipse.RenderTransform>
                         <TransformGroup>
